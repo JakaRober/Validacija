@@ -1,0 +1,7 @@
+streamlit
+requests
+pytz
+pandas
+matplotlib
+seaborn
+cycler

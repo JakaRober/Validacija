@@ -16,7 +16,7 @@ import webbrowser
 import time
 
 st.set_page_config(
-    page_title="Validacija kapacitet CORE",
+    page_title="Validacija kapacitet CORE - JAO",
     page_icon="☢️",
     layout="wide",  # Options: "centered" (default) or "wide"
     initial_sidebar_state="expanded",  # Options: "auto", "expanded", "collapsed"
